@@ -29,3 +29,6 @@ ax.set_xlabel("Tháng")
 ax.legend()
 st.title("Biểu đồ so sánh Thu nhập và Chi tiêu")
 st.pyplot(fig)
+git add streamlit.txt
+git commit -m "Add seaborn to streamlit.txt"
+git push origin main
